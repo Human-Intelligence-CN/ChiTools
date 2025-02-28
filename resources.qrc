@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>bin.png</file>
+        <file>grey.png</file>
+        <file>open.png</file>
+        <file>pic.png</file>
+        <file>restore.png</file>
+        <file>auto.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>builtInImage.jpg</file>
+    </qresource>
+    <qresource prefix="/videos"/>
+</RCC>
